@@ -1,0 +1,111 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+h3{
+    color: rgb(187, 179, 170);
+    font-family: "Google Sans", "Noto Sans Myanmar UI", arial, sans-serif;
+
+}
+.f{
+    font-family: "Google Sans", "Noto Sans Myanmar UI", arial, sans-serif;
+    color: rgb(82 82 82);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.next{
+    background-color: #1a73e8;
+    border-radius: 5px;
+    padding: 6px 16px;
+    border-color: #1a73e8;
+    color: white;
+}
+
+h1 {
+    font-family: "Google Sans", "Noto Sans Myanmar UI", arial, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.btn {
+    width: 175px;
+    padding-right: 98px;
+}
+.inp{
+    border-radius: 5px;
+    margin: 5px;
+    border: 1px solid #dadce0;
+    font-size: 14px;
+    padding: 6px 8px;
+    height: 20px;
+    outline: none;
+}
+.input1{
+    margin-left: 5px; 
+}
+.p{
+    padding: 6px;
+    margin-top: 22px;
+    outline: none;
+    border: 1px solid #dadce0;
+    border-right: 0px;
+    border-radius: 5px 0px 0px 5px;
+    margin-right: -7px;
+    height: 20px;
+}
+h4{
+    color: rgb(0, 179, 255);
+}
+.s{
+    color: rgb(0, 179, 255);  
+}
+.letters{
+    margin-left: 20px;
+    color: rgb(167, 149, 126);
+}
+.a{
+    margin-left: 15px;
+}
+
+
+.parent_container{
+    display: flex;
+    border: 1px solid #dadce0;
+    border-radius: 8px;
+    padding: 48px 40px 36px;
+}
+.leftside{
+    width: 70%;
+}
+.btm{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    align-items: center;
+}
+.s{
+    margin-left: -90px;
+}
+.n{
+    color: white;
+    width: 60px;
+    padding: 5px;
+}
+.y{
+    margin-top: 18px;
+}
+.gmail{
+    border-radius: 0px 5px 5px 0px;
+    padding: 6px;
+    margin-top: 22px;
+    outline: none;
+    color: #4b4a4a;
+    background-color: white;
+    border: 1px solid #dadce0;
+    border-left-color: white;
+    height: 34px;
+}
